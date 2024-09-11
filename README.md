@@ -7,7 +7,7 @@
   <a href="https://github.com/khouloudbejaoui"><img src="https://img.shields.io/badge/Github-%2312100E.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/khouloud-bejaoui/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
   </a>
-  <a href="[https://personal-portfolio-8341f.web.app/](https://khouloudbejaoui.github.io/khouloud-portfolio/)" target="_blank">
+  <a href="https://khouloudbejaoui.github.io/khouloud-portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-F57C00.svg?style=flat-square&logo=link&logoColor=white" alt="Portfolio"/>
 </a>
   <a href="mailto:bejaouikhouloud98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
