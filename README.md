@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)]()
 <h1 align="center">Hi there! I'm Khouloud Bejaoui 👋</h1>
-<h3 align="center"> Software Engineer| Full Stack Developer 🚀</h3>
+<h3 align="center"> Software Engineer | Full Stack Developer 🚀</h3>
 
 
 <p align="center">
